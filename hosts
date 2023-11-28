@@ -1,0 +1,22 @@
+##
+# Host Database
+#
+# localhost is used to configure the loopback interface
+# when the system is booting.  Do not change this entry.
+##
+127.0.0.1	localhost
+172.20.10.1	localhost
+255.255.255.255	broadcasthost
+::1             localhost
+0.0.0.0 ic.adobe.io
+0.0.0.0 aoorovjtha.adobe.io
+0.0.0.0 pojvrj7ho5.adobe.io
+0.0.0.0 m59b4msyph.adobe.io
+127.0.0.1 7g2gzgk9g1.adobe.io
+0.0.0.0 guzg78logz.adobe.io
+127.0.0.1 guzg78logz.adobe.io
+127.0.0.1 ic.adobe.io
+127.0.0.1 b5kbg2ggog.adobe.io
+127.0.0.1 guzg78logz.adobe.io
+
+
